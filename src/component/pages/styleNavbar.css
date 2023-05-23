@@ -1,0 +1,29 @@
+.buttonLink{
+    color: white;
+    /*font-size: medium;*/
+    font-weight: bold;
+}
+
+.appbar{
+    height: 65px;
+   border-bottom: 1px solid #006699 ;
+}
+
+.appbar a{
+    font-size:medium ;
+}
+
+.appbarfalse{
+    height: 55px;
+    border-bottom: 2px solid #006699 ;
+ 
+}
+
+.appbarfalse a{
+    font-size: medium;
+  ;
+}
+
+.iconsappbar{
+    margin-right: 20px;
+}

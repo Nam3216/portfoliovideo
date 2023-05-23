@@ -1,0 +1,25 @@
+.skillBarContainerImg img{
+    width: 150px;
+    border-radius: 30px;
+}
+
+.skillBarContainer{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.SkillsBarContainerBar{
+    width: 100%;
+    margin: 0 auto;
+ 
+}
+
+.skillsBarContainerCont{
+    width: 80%;
+   
+    margin: 0 auto;
+}
+
+.skillBarContainerText{
+    margin-top: 50px;
+}

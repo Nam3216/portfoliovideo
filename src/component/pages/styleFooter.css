@@ -1,0 +1,17 @@
+.footer{
+    background-image: linear-gradient(to left bottom, #acb0b3, #bdbfc2, #cecfd1, #dfdfe0, #f0f0f0);
+    
+  
+}
+
+.footerIcons{
+    display: flex;
+    justify-content: center;
+  padding: 50px;
+}
+
+.footerIconsItem{
+    margin-right: 20px;
+    cursor: pointer;
+    
+}
